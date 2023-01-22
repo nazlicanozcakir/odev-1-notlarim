@@ -1,0 +1,7 @@
+public class Example
+{
+   public static void Main()
+   {
+      string line;
+      Console.WriteLine("hello world!):");
+      Console.ReadLine();
